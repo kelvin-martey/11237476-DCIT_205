@@ -5,4 +5,4 @@ My name is Kelvin Martey Mamah, with ID number:11237476.
 
 ## These are the screen shots of the project
 
- ![Alt text](<first page.png>) ![Alt text](contact.png) ![Alt text](events.png) ![Alt text](student.png) ![Alt text](staff.png) ![Alt text](faculty.png) ![Alt text](resources.png) ![Alt text](courses.png) ![Alt text](catalog.png) ![Alt text](about.png)
+ (student.png) ![Alt text](contact.png) ![Alt text](events.png) ![Alt text](student.png) ![Alt text](staff.png) ![Alt text](faculty.png) ![Alt text](resources.png) ![Alt text](courses.png) ![Alt text](catalog.png) ![Alt text](about.png)
