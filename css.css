@@ -6,6 +6,10 @@ color:rgb(190, 190, 100);
     display: inline-block;
     position: aboslute;
 }
+.swiper {
+  width: 600px;
+  height: 300px;
+}
 .head{
     height:fit-content;
     width:100px;
