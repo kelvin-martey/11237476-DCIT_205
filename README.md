@@ -5,4 +5,4 @@ My name is Kelvin Martey Mamah, with ID number:11237476.
 
 ## These are the screen shots of the project
 
-![Alt text](first page.png) ![Alt text](contact.png) ![Alt text](events.png) ![Alt text](student.png) ![Alt text](staff.png) ![Alt text](faculty.png) ![Alt text](resources.png) ![Alt text](courses.png) ![Alt text](catalog.png) ![Alt text](about.png)
+![about](https://github.com/kelvin-martey/11237476-DCIT_205/assets/150729637/7c4c2730-61ff-48f4-80e6-3c04ae0859c0)
